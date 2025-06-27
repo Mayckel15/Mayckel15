@@ -1,0 +1,19 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Node.js (si lo usas)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de entorno
+.env
+*.log
